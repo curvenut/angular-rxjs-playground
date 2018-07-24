@@ -1,0 +1,10 @@
+:host {
+  display: block;
+  .nested-inside-host {
+    color: red;
+  }
+}
+
+  .nested-inside-host {
+    color: blue;
+  }
